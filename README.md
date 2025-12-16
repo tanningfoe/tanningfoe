@@ -8,3 +8,6 @@ Je suis **TanningFoe**, un ingénieur informatique passioné! 😄
 
 ## Stastitique GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
+
+## English README.md
+**Link**: https://www.github.com/tanningfoe/tanningfoe/README_en.md
