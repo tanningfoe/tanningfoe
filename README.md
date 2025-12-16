@@ -3,6 +3,7 @@ Je suis **TanningFoe**, un ingénieur informatique passioné! 😄
 
 ## Tu veux apprendre plus sur mes compétences en informatique?
 **Site web professionel**: https://tanningfoe.github.io
+
 **Repositoire GitHub**: https://www.github.com/tanningfoe/tanningfoe.github.io
 
 ## Stastitique GitHub
