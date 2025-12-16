@@ -1,5 +1,5 @@
-## CIAO 👋
-I'm TanningFoe, a passionate computer engineer! 😄
+## CIAO 👋🇮🇹👌
+I'm **TanningFoe**, a passionate computer engineer! 😄
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
