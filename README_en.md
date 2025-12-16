@@ -7,5 +7,5 @@ https://tanningfoe.github.io
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
 
-## Français
+## Français README.md
 https://www.github.com/tanningfoe
