@@ -6,7 +6,7 @@ I'm **TanningFoe**, a passionate computer engineer! 😄
 
 **GitHub repository of professional website**: https://www.github.com/tanningfoe/tanningfoe.github.io
 
-## Github Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
 
 ## Page Version Française
