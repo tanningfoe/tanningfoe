@@ -1,23 +1,9 @@
 ## CIAO 👋💻👌
-I'm **TanningFoe**, a passionate computer engineer! 😄
+Je suis **TanningFoe**, un ingénieur informatique passioné! 😄
 
-## Want to learn more about my computer skills?
-https://tanningfoe.github.io
+## Tu veux apprendre plus sur mes compétences en informatique?
+**Site web professionel**: https://tanningfoe.github.io
+**Repositoire GitHub**: https://www.github.com/tanningfoe/tanningfoe.github.io
 
-## Github Stats
+## Stastitique GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
-
-
-<!--
-**tanningfoe/tanningfoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
