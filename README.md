@@ -1,5 +1,6 @@
 ## CIAO 👋
 
+I'm TanningFoe, a passionate computer engineer! 😄
 <!--
 **tanningfoe/tanningfoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
