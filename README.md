@@ -1,4 +1,4 @@
-## CIAO 👋🇮🇹👌
+## CIAO 👋💻👌
 I'm **TanningFoe**, a passionate computer engineer! 😄
 
 ## Github Stats
