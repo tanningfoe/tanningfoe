@@ -4,10 +4,10 @@ Je suis **TanningFoe**, un ingénieur informatique passioné! 😄
 ## Tu veux apprendre plus sur mes compétences en informatique?
 **Site web professionel**: https://tanningfoe.github.io
 
-**Repositoire GitHub**: https://www.github.com/tanningfoe/tanningfoe.github.io
+**Repositoire du site web GitHub**: https://www.github.com/tanningfoe/tanningfoe.github.io
 
 ## Stastitique GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
 
 ## English Version Page
-https://www.github.com/tanningfoe/README_en.md
+https://www.github.com/tanningfoe/tanningfoe/README_en.md
