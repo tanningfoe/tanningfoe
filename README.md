@@ -10,4 +10,4 @@ Je suis **TanningFoe**, un ingénieur informatique passioné! 😄
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
 
 ## English Version Page
-https://www.github.com/tanningfoe/tanningfoe/README_en.md
+[https://www.github.com/tanningfoe/tanningfoe/README_en.md](https://github.com/tanningfoe/tanningfoe/blob/main/README_en.md)
