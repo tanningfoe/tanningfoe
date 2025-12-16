@@ -1,8 +1,13 @@
 ## CIAO 👋💻👌
 I'm **TanningFoe**, a passionate computer engineer! 😄
 
+## Want to learn more about my computer skills?
+https://tanningfoe.github.com
+
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanningfoe&show_icons=true&theme=radical)
+
+
 <!--
 **tanningfoe/tanningfoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
